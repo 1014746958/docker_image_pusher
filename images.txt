@@ -1,1 +1,1 @@
-netdata/netdata:v1.46.2
+cbooski/netdata_nvidia-smi:latest
