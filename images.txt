@@ -1,1 +1,1 @@
-cbooski/netdata_nvidia-smi:latest
+docker pull netdata/netdata:latest
