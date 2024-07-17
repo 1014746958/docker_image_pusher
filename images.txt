@@ -1,1 +1,1 @@
-docker pull netdata/netdata:latest
+netdata/netdata:latest
