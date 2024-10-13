@@ -1,1 +1,1 @@
-netdata/netdata:latest
+zhangrenl/genehapr:latest
