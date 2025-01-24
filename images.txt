@@ -1,1 +1,1 @@
-zhangrenl/genehapr:latest
+reg.deeproute.ai/perception-test/cosmos:latest
