@@ -2,6 +2,7 @@ ubuntu:22.04
 python:3.10.16
 ollama/ollama:latest
 infiniflow/ragflow:v0.18.0-slim
+infiniflow/ragflow:v0.18.0
 elasticsearch:8.11.3
 infiniflow/infinity:v0.6.0-dev3
 mysql:8.0.39
