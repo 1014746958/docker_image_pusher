@@ -11,3 +11,5 @@ valkey/valkey:8
 ghcr.io/open-webui/open-webui:ollama
 calciumion/new-api:latest
 containrrr/watchtower:latest
+redis:latest
+mysql:8.2
