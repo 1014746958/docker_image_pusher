@@ -1,2 +1,1 @@
-infiniflow/ragflow:v0.19.0-slim
-infiniflow/ragflow:v0.19.0
+hub.icert.top/opensearchproject/opensearch:2.19.1
