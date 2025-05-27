@@ -1,1 +1,1 @@
-hub.icert.top/opensearchproject/opensearch:2.19.1
+infiniflow/sandbox-executor-manager:latest
