@@ -1,1 +1,1 @@
-infiniflow/sandbox-executor-manager:latest
+opengatecollaboration/gate:latest
