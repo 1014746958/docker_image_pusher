@@ -1,1 +1,1 @@
-opengatecollaboration/gate:latest
+centos:7
