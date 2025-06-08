@@ -1,1 +1,1 @@
-centos:7
+gpustack/gpustack:latest-cpu
