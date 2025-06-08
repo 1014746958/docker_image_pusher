@@ -1,1 +1,1 @@
-gpustack/gpustack:latest-cpu
+portainer/portainer-ce@sha256:da23a0f6d6d103dad587c27f10d26f7b407203454a2abb672b576e1a4e27ced5
