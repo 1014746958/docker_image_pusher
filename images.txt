@@ -1,1 +1,1 @@
-summary/portainer-ce:latest
+sonatype/nexus:latest
