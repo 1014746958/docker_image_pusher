@@ -1,1 +1,5 @@
-sonatype/nexus:latest
+gpustack/gpustack:latest-cpu
+ollama/ollama:latest
+calciumion/new-api:latest
+containrrr/watchtower:latest
+portainer/portainer-ce:lts
