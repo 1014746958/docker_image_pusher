@@ -1,1 +1,1 @@
-cloudsmithy/containly:latest
+gpustack/gpustack:latest-cpu
