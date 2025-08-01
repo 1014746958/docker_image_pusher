@@ -1,1 +1,1 @@
-gpustack/gpustack:latest-cpu
+ghcr.nju.edu.cn/sky22333/ansible
