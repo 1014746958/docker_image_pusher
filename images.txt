@@ -1,1 +1,1 @@
-openssh/openssh-client:latest
+alpine/openssh
