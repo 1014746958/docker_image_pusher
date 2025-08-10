@@ -1,1 +1,1 @@
-ghcr.io/gyulyvgc/sniffnet:latest
+openssh/openssh-client
