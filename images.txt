@@ -1,1 +1,1 @@
-  ghcr.io/gyulyvgc/sniffnet:latest
+ghcr.io/gyulyvgc/sniffnet:latest
