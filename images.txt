@@ -1,10 +1,1 @@
-elasticsearch:8.11.3
-hub.icert.top/opensearchproject/opensearch:2.19.1
-infiniflow/infinity:v0.6.0-dev5
-infiniflow/sandbox-executor-manager:latest
-infiniflow/sandbox-base-python:latest
-infiniflow/sandbox-base-nodejs:latest
-mysql:8.0.39
-quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
-valkey/valkey:8
-infiniflow/ragflow:v0.20.0
+  ghcr.io/gyulyvgc/sniffnet:latest
