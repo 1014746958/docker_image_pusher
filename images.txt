@@ -1,1 +1,1 @@
-rdc-incubator/kt-connect-shadow:v0.3.7
+metersphere/metersphere-ce-allinone
