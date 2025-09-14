@@ -1,1 +1,1 @@
-metersphere/metersphere-ce-allinone
+grafana/grafana:12.2.0-256818
