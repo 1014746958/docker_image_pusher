@@ -1,1 +1,1 @@
-grafana/grafana:12.2.0-256818
+gpustack/gpustack:latest-cpu
