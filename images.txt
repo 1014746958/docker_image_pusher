@@ -1,1 +1,2 @@
 gpustack/gpustack
+quay.io/gpustack/gpustack:v2.1.2
